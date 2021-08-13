@@ -6,7 +6,7 @@ and this tool work like down picture.
 ### installation
 if you want to test it on your localhost just do following steps:
 ```
-  $ sudo git clone 
+  $ sudo git clone https://github.com/TahaVahedi/decentralized-port-scanner.git
   $ cd decentralized-port-scanner
   $ python3 server/server.py 
 ```
